@@ -1,7 +1,3 @@
-#jupyter notebook
-
-
-
 # coding: utf-8
 
 # # Working with Categorical and Numeric Data
